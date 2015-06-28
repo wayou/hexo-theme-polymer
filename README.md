@@ -1,5 +1,5 @@
 # hexo-theme-polymer
-a theme for [hexo](http://hexo.io/) static blog based on google polymer
+a mobile friendly theme for [hexo](http://hexo.io/) static blog based on google polymer
 
 ## preview
 
@@ -29,7 +29,7 @@ customize the `_config.yml` file under the themes directory as you wish
 # Header
 menu: #site menu, showing in the side navigation
   - title: Home # menu title
-    url: / #the link
+    url: / # the link
     icon: home  # menu icon, available icons can be found here:https://www.polymer-project.org/0.5/components/core-icons/demo.html
 
 
